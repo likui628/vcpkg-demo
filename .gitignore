@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/vcpkg_installed
+/x64
+/hello_vcpkg/x64
